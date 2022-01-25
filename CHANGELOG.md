@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-bigquery-storage/#history
 
+## [2.12.0](https://github.com/googleapis/python-bigquery-storage/compare/v2.11.0...v2.12.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#387](https://github.com/googleapis/python-bigquery-storage/issues/387)) ([5e7b502](https://github.com/googleapis/python-bigquery-storage/commit/5e7b5023ab9d9bcfa7661a19a79f05c07cded77e))
+
 ## [2.11.0](https://github.com/googleapis/python-bigquery-storage/compare/v2.10.1...v2.11.0) (2022-01-12)
 
 
